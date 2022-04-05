@@ -11,3 +11,6 @@
 ⚡ Social: [Twitter](https://twitter.com/qbeer666) [LinkedIn](https://www.linkedin.com/in/alex-olar/) [Facebook](https://www.facebook.com/qbeer666) 
 
 ## @Regards, Alex
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=qbeer&count_private=true&theme=vue&include_all_commits=true&show_owner=true&show_icons=true)
+
