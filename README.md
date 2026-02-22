@@ -10,5 +10,3 @@
   * [Twitter](https://twitter.com/qbeer666)
   * [LinkedIn](https://www.linkedin.com/in/alex-olar/)
   * [Facebook](https://www.facebook.com/qbeer666)
-
-## @Regards, Alex
