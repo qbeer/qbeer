@@ -1,7 +1,7 @@
 # About me
 
-* Education: BSc and MSc in Physics, currently pursuing a PhD in Computer Science focusing on applied deep learning for medical imaging. 🔭
-* Personal: Married, I enjoy cooking and cycling. 
+* Education: BSc and MSc in Physics, PhD in Computer Science - currently working on autonomous driving. 🔭
+* Personal: Married, one kid - I enjoy cooking and cycling (on hold now). 
 
 # Contact Me
 
